@@ -1,0 +1,11 @@
+C:\Projekti\VS projekti\glazbaCopy\glazbaCopy\bin\Debug\glazbaCopy.exe.config
+C:\Projekti\VS projekti\glazbaCopy\glazbaCopy\bin\Debug\glazbaCopy.exe
+C:\Projekti\VS projekti\glazbaCopy\glazbaCopy\bin\Debug\glazbaCopy.pdb
+C:\Projekti\VS projekti\glazbaCopy\glazbaCopy\obj\Debug\glazbaCopy.csprojResolveAssemblyReference.cache
+C:\Projekti\VS projekti\glazbaCopy\glazbaCopy\obj\Debug\glazbaCopy.Properties.Resources.resources
+C:\Projekti\VS projekti\glazbaCopy\glazbaCopy\obj\Debug\glazbaCopy.csproj.GenerateResource.Cache
+C:\Projekti\VS projekti\glazbaCopy\glazbaCopy\obj\Debug\glazbaCopy.exe
+C:\Projekti\VS projekti\glazbaCopy\glazbaCopy\obj\Debug\glazbaCopy.pdb
+C:\Projekti\VS projekti\glazbaCopy\glazbaCopy\obj\Debug\glazbaCopy.PlaylistaKopiranje.resources
+C:\Projekti\VS projekti\glazbaCopy\glazbaCopy\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Projekti\VS projekti\glazbaCopy\glazbaCopy\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
